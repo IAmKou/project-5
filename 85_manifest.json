@@ -1,0 +1,3232 @@
+[
+  {
+    "_id": "68878a407150ca815231fc60",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "67b0bc90-87dc-43fe-b078-0098072ee889",
+    "originalText": "Software Requirements Specification",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:36.955Z",
+    "updatedAt": "2025-07-28T14:33:36.955Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a417150ca815231fc63",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "229a49bb-99ce-4c09-a404-46738e642c98",
+    "originalText": "for",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:37.176Z",
+    "updatedAt": "2025-07-28T14:33:37.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a417150ca815231fc66",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "3d389998-9a85-4ba9-9d4c-e6ef410380ae",
+    "originalText": "&lt;Project&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:37.385Z",
+    "updatedAt": "2025-07-28T14:33:37.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a417150ca815231fc69",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "17f504d3-1f6e-4b68-b9a3-071c14c4d5e2",
+    "originalText": "Version 1.0 approved",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:37.593Z",
+    "updatedAt": "2025-07-28T14:33:37.593Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a417150ca815231fc6c",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f4a64e5c-e6dd-482e-ab80-b5b9b81498fa",
+    "originalText": "Prepared by &lt;author&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:37.822Z",
+    "updatedAt": "2025-07-28T14:33:37.822Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a427150ca815231fc6f",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "2a552415-c75b-4b11-8c15-804218175f63",
+    "originalText": "&lt;organization&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:38.036Z",
+    "updatedAt": "2025-07-28T14:33:38.036Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a427150ca815231fc72",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "3b911b93-94e3-46a8-a6c3-b34ea9115f41",
+    "originalText": "&lt;date created&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:38.247Z",
+    "updatedAt": "2025-07-28T14:33:38.247Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a427150ca815231fc75",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "a0e37bcb-8b84-4407-bc5b-bce2bb3a6546",
+    "originalText": "<a id=\"_Toc344877432\"></a><a id=\"_Toc344879822\"></a><a id=\"_Toc346508722\"></a><a id=\"_Toc346508952\"></a><a id=\"_Toc346509227\"></a><a id=\"_Toc352609379\"></a>Table of Contents",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:38.660Z",
+    "updatedAt": "2025-07-28T14:33:38.660Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a427150ca815231fc78",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "a464b450-9623-424d-b9fb-ffce71ba3fd7",
+    "originalText": "Table of Contents\tii",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:38.873Z",
+    "updatedAt": "2025-07-28T14:33:38.873Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a437150ca815231fc7b",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "888e9c4e-d844-45fe-b48b-0ddbeb40fe15",
+    "originalText": "Revision History\tii",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:39.083Z",
+    "updatedAt": "2025-07-28T14:33:39.083Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a437150ca815231fc7e",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "b649ddaa-3f16-4156-bf42-412b44224622",
+    "originalText": "1.\tIntroduction\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:39.302Z",
+    "updatedAt": "2025-07-28T14:33:39.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a437150ca815231fc81",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "1074afc8-628e-4ea5-a290-15e92ee420cd",
+    "originalText": "1.1\tPurpose\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:39.508Z",
+    "updatedAt": "2025-07-28T14:33:39.508Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a437150ca815231fc84",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "c356d85c-c55c-4c26-a53d-7a337e9dca4b",
+    "originalText": "1.2\tDocument Conventions\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:39.716Z",
+    "updatedAt": "2025-07-28T14:33:39.716Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a437150ca815231fc87",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "aa650d01-ac60-45c4-9f96-a7113f9be18f",
+    "originalText": "1.3\tProject Scope\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:39.932Z",
+    "updatedAt": "2025-07-28T14:33:39.932Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a447150ca815231fc8a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f8a616a1-f16f-4b0e-88a8-8eca9698c61b",
+    "originalText": "1.4\tReferences\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:40.149Z",
+    "updatedAt": "2025-07-28T14:33:40.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a447150ca815231fc8d",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f3728f13-bc2b-4abd-9c2f-b79e25e79787",
+    "originalText": "2.\tOverall Description\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:40.359Z",
+    "updatedAt": "2025-07-28T14:33:40.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a447150ca815231fc90",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "09bc97f4-5488-4a52-8974-e84e637f1d3b",
+    "originalText": "2.1\tProduct Perspective\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:40.569Z",
+    "updatedAt": "2025-07-28T14:33:40.569Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a447150ca815231fc93",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "569d35a1-4164-4f78-825e-3e3bd358f840",
+    "originalText": "2.2\tUser Classes and Characteristics\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:40.790Z",
+    "updatedAt": "2025-07-28T14:33:40.790Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a447150ca815231fc96",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f68e654c-98c4-420d-bccb-1b55fcbbb246",
+    "originalText": "2.3\tOperating Environment\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:40.996Z",
+    "updatedAt": "2025-07-28T14:33:40.996Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a457150ca815231fc99",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4e94f90b-140b-43d2-9b0f-dc64f653f551",
+    "originalText": "2.4\tDesign and Implementation Constraints\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:41.303Z",
+    "updatedAt": "2025-07-28T14:33:41.303Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a457150ca815231fc9c",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "9304495a-9885-40d3-b156-2d753901127c",
+    "originalText": "2.5\tAssumptions and Dependencies\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:41.512Z",
+    "updatedAt": "2025-07-28T14:33:41.512Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a457150ca815231fc9f",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "abad4fc1-9626-4791-9eef-98b118d09183",
+    "originalText": "3.\tSystem Features\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:41.751Z",
+    "updatedAt": "2025-07-28T14:33:41.751Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a457150ca815231fca2",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "a41b9dd9-04e4-4d41-a02b-d5c2e563ba58",
+    "originalText": "3.1\tSystem Feature 1\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:41.986Z",
+    "updatedAt": "2025-07-28T14:33:41.986Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a467150ca815231fca5",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "e9f01fa9-40d7-4944-8a6a-bddc10c1d2a4",
+    "originalText": "3.2\tSystem Feature 2 (and so on)\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:42.385Z",
+    "updatedAt": "2025-07-28T14:33:42.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a467150ca815231fca8",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "b27dadfe-996c-4195-bb3e-1159ce84e07a",
+    "originalText": "4.\tData Requirements\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:42.592Z",
+    "updatedAt": "2025-07-28T14:33:42.592Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a467150ca815231fcab",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d4a49d5b-53e2-41d9-b027-905e9a81353e",
+    "originalText": "4.1\tLogical Data Model\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:42.886Z",
+    "updatedAt": "2025-07-28T14:33:42.886Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a477150ca815231fcae",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4b87bdc6-98ab-4727-b825-3faccb7e2adf",
+    "originalText": "4.2\tData Dictionary\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:43.109Z",
+    "updatedAt": "2025-07-28T14:33:43.109Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a477150ca815231fcb1",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "10358f87-2a9b-4e3a-a25c-5b5c889d74cc",
+    "originalText": "4.3\tReports\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:43.315Z",
+    "updatedAt": "2025-07-28T14:33:43.315Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a477150ca815231fcb4",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f354fb32-041f-47b9-9927-d43afe9203a4",
+    "originalText": "4.4\tData Acquisition, Integrity, Retention, and Disposal\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:43.533Z",
+    "updatedAt": "2025-07-28T14:33:43.533Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a477150ca815231fcb7",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "5ab334eb-742e-4528-b02b-1555a505a3de",
+    "originalText": "5.\tExternal Interface Requirements\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:43.746Z",
+    "updatedAt": "2025-07-28T14:33:43.746Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a477150ca815231fcba",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "3387e85a-3b4c-430f-8aa1-4af76a72f7bd",
+    "originalText": "5.1\tUser Interfaces\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:43.965Z",
+    "updatedAt": "2025-07-28T14:33:43.965Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a487150ca815231fcbd",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "b1a55ee0-3f0a-4f48-aa9c-ff345f4fa2d6",
+    "originalText": "5.2\tSoftware Interfaces\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:44.180Z",
+    "updatedAt": "2025-07-28T14:33:44.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a487150ca815231fcc0",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "85f298de-1728-4acf-962b-e514aa41f882",
+    "originalText": "5.3\tHardware Interfaces\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:44.387Z",
+    "updatedAt": "2025-07-28T14:33:44.387Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a487150ca815231fcc3",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4e286db2-3a2a-4230-8cc0-959b38ef0db4",
+    "originalText": "5.4\tCommunications Interfaces\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:44.596Z",
+    "updatedAt": "2025-07-28T14:33:44.596Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a487150ca815231fcc6",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "1f8328d6-af0d-4eba-9fdb-fcc7bfc5f668",
+    "originalText": "6.\tQuality Attributes\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:44.815Z",
+    "updatedAt": "2025-07-28T14:33:44.815Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a497150ca815231fcc9",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "a4ac836d-a606-47e8-8aee-f28cb310220e",
+    "originalText": "6.1\tUsability\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:45.023Z",
+    "updatedAt": "2025-07-28T14:33:45.023Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a497150ca815231fccc",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "3a6b1296-6905-4b7e-8475-c8774d72eda3",
+    "originalText": "6.2\tPerformance\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:45.239Z",
+    "updatedAt": "2025-07-28T14:33:45.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a497150ca815231fccf",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "cbed0420-a330-46d2-975d-6bd615eb97fc",
+    "originalText": "6.3\tSecurity\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:45.463Z",
+    "updatedAt": "2025-07-28T14:33:45.463Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a497150ca815231fcd2",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "e432933d-f5d8-4efc-83fe-504c6b422a9d",
+    "originalText": "6.4\tSafety\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:45.776Z",
+    "updatedAt": "2025-07-28T14:33:45.776Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4a7150ca815231fcd5",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "7c7bda09-3b9a-441a-bb26-407a5cc2aeab",
+    "originalText": "6.5\t[Others as relevant]\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:46.107Z",
+    "updatedAt": "2025-07-28T14:33:46.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4a7150ca815231fcd8",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "1be896ac-8bf2-4dc0-9f85-f136e8596ded",
+    "originalText": "7.\tInternationalization and Localization Requirements\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:46.391Z",
+    "updatedAt": "2025-07-28T14:33:46.391Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4a7150ca815231fcdb",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "65a1f0b4-bec4-433a-872f-548bf0f40e33",
+    "originalText": "8.\tOther Requirements\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:46.610Z",
+    "updatedAt": "2025-07-28T14:33:46.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4a7150ca815231fcde",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "9d7dd3d2-560f-4ddb-9c0a-8ceda6f7de14",
+    "originalText": "Appendix A: Glossary\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:46.817Z",
+    "updatedAt": "2025-07-28T14:33:46.817Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4b7150ca815231fce1",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "39faaf1b-dd1a-4d2e-ad1d-a0e465e476be",
+    "originalText": "Appendix B: Analysis Models\t2",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:47.037Z",
+    "updatedAt": "2025-07-28T14:33:47.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4b7150ca815231fce4",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "6e0d8a23-0a65-43b6-8c63-e70032de9b4a",
+    "originalText": "<a id=\"_Toc352609380\"></a>Revision History",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:47.247Z",
+    "updatedAt": "2025-07-28T14:33:47.247Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4b7150ca815231fce7",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ff1cd9e2-f004-4a55-aed2-f424e78f30c2",
+    "originalText": "<p><strong>Name</strong></p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:47.464Z",
+    "updatedAt": "2025-07-28T14:33:47.464Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4b7150ca815231fcea",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "fea8d266-38c1-48aa-b1a8-0b5686099225",
+    "originalText": "<strong>Name</strong>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:47.679Z",
+    "updatedAt": "2025-07-28T14:33:47.679Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4b7150ca815231fced",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "961506c8-7d97-4d63-9e1d-6b4c97567814",
+    "originalText": "<p><strong>Date</strong></p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:47.884Z",
+    "updatedAt": "2025-07-28T14:33:47.884Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4c7150ca815231fcf0",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d7aa07d7-6ef7-42f5-a13f-bafc87348ffe",
+    "originalText": "<strong>Date</strong>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:48.096Z",
+    "updatedAt": "2025-07-28T14:33:48.096Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4c7150ca815231fcf3",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "92b21fac-6363-47a6-ae97-adfd08b6e6b4",
+    "originalText": "<p><strong>Reason For Changes</strong></p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:48.323Z",
+    "updatedAt": "2025-07-28T14:33:48.323Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4c7150ca815231fcf6",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "7dcd2cd1-a50c-4068-ab5f-1ff47bf222b1",
+    "originalText": "<strong>Reason For Changes</strong>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:48.537Z",
+    "updatedAt": "2025-07-28T14:33:48.537Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4c7150ca815231fcf9",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "8343e010-9594-412b-997b-934c04ce6160",
+    "originalText": "<p><strong>Version</strong></p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:48.752Z",
+    "updatedAt": "2025-07-28T14:33:48.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4c7150ca815231fcfc",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "8ec30286-b63f-4277-ad3b-4ec630b0870b",
+    "originalText": "<strong>Version</strong>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:48.967Z",
+    "updatedAt": "2025-07-28T14:33:48.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4d7150ca815231fcff",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "31189adc-c893-4fb2-89d0-6894001348c0",
+    "originalText": "<a id=\"_Toc439994665\"></a><a id=\"_Toc352609381\"></a>Introduction",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:49.417Z",
+    "updatedAt": "2025-07-28T14:33:49.417Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4d7150ca815231fd02",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "262c8a9b-8005-4ddf-bbf7-0f97e568014d",
+    "originalText": "<a id=\"_Toc439994667\"></a>&lt;The introduction presents an overview to help the reader understand how the SRS is organized and how to use it.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:49.953Z",
+    "updatedAt": "2025-07-28T14:33:49.953Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4e7150ca815231fd05",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4ae34661-e2ed-4dd9-9517-c5ce8fd1e28b",
+    "originalText": "<a id=\"_Toc352609382\"></a>Purpose",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:50.162Z",
+    "updatedAt": "2025-07-28T14:33:50.162Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4e7150ca815231fd08",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ffb575de-9ce5-45de-97f1-ab5d3d1f84a6",
+    "originalText": "&lt;Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the different types of reader that the document is intended for, such as developers, project managers, marketing staff, users, testers, and documentation writers.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:50.381Z",
+    "updatedAt": "2025-07-28T14:33:50.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4e7150ca815231fd0b",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "2077e331-1124-4b34-bc6b-250db20f86e6",
+    "originalText": "<a id=\"_Toc439994668\"></a><a id=\"_Toc352609383\"></a>Document Conventions",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:50.584Z",
+    "updatedAt": "2025-07-28T14:33:50.584Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4e7150ca815231fd0e",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d6c87e95-6fea-45de-b657-6e1f8b4e619b",
+    "originalText": "&lt;Describe any standards or typographical conventions used, including the meaning of specific text styles, highlighting, or notations. If you are manually labeling unique requirement identifiers, you might specify the format here for anyone who needs to add one later.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:50.800Z",
+    "updatedAt": "2025-07-28T14:33:50.800Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4f7150ca815231fd11",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d7ed950c-0871-436b-a0af-595e47862cd9",
+    "originalText": "<a id=\"_Toc439994670\"></a><a id=\"_Toc352609384\"></a>Project Scope",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:51.017Z",
+    "updatedAt": "2025-07-28T14:33:51.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4f7150ca815231fd14",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "380bdf18-dff4-4d05-9c20-4698d60c05ea",
+    "originalText": "&lt;Provide a short description of the software being specified and its purpose. Relate the software to user or corporate goals and to business objectives and strategies. If a separate vision and scope or similar document is available, refer to it rather than duplicating its contents here. An SRS that specifies an incremental release of an evolving product should contain its own scope statement as a subset of the long-term strategic product vision. You might provide a high-level summary of the major features the release contains or the significant functions that it performs.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:51.314Z",
+    "updatedAt": "2025-07-28T14:33:51.314Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4f7150ca815231fd17",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "36ec5e1a-3661-4988-bd00-d40e190e82ac",
+    "originalText": "<a id=\"_Toc439994672\"></a><a id=\"_Toc352609385\"></a>References",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:51.523Z",
+    "updatedAt": "2025-07-28T14:33:51.523Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a4f7150ca815231fd1a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "71c37348-f691-4511-a7b9-1330439590f8",
+    "originalText": "&lt;List any documents or other resources to which this SRS refers. Include hyperlinks to them if they are in a persistent location. These might include user interface style guides, contracts, standards, system requirements specifications, interface specifications, or the SRS for a related product. Provide enough information so that the reader can access each reference, including its title, author, version number, date, and source, storage location, or URL.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:51.760Z",
+    "updatedAt": "2025-07-28T14:33:51.760Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a507150ca815231fd1d",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "15244f87-8063-45d0-86b4-b9092baf14dd",
+    "originalText": "<a id=\"_Toc439994673\"></a><a id=\"_Toc352609386\"></a>Overall Description",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:52.017Z",
+    "updatedAt": "2025-07-28T14:33:52.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a507150ca815231fd20",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ce3b2f9e-a989-4c56-b566-90a251187a1b",
+    "originalText": "&lt;This section presents a high-level overview of the product and the environment in which it will be used, the anticipated users, and known constraints, assumptions, and dependencies.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:52.248Z",
+    "updatedAt": "2025-07-28T14:33:52.248Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a507150ca815231fd23",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "10f50c68-6a38-4bdd-b17d-da0d51a9257c",
+    "originalText": "<a id=\"_Toc439994674\"></a><a id=\"_Toc352609387\"></a>Product Perspective",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:52.504Z",
+    "updatedAt": "2025-07-28T14:33:52.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a507150ca815231fd26",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "05a02ae4-c190-45fa-9924-77da9d891103",
+    "originalText": "&lt;Describe the product's context and origin. Is it the next member of a growing product line, the next version of a mature system, a replacement for an existing application, or an entirely new product? If this SRS defines a component of a larger system, state how this software relates to the overall system and identify major interfaces between the two. Consider including visual models such as a context diagram or ecosystem map to show the product's relationship to other systems.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:52.722Z",
+    "updatedAt": "2025-07-28T14:33:52.722Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a507150ca815231fd29",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "bab4d41d-8db3-4610-ab40-3bc6be9bdd25",
+    "originalText": "<a id=\"_Toc439994676\"></a><a id=\"_Toc352609388\"></a>User Classes and Characteristics",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:52.972Z",
+    "updatedAt": "2025-07-28T14:33:52.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a517150ca815231fd2c",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f55500b3-eb3b-4e22-8cff-48058a24633d",
+    "originalText": "&lt;Identify the various user classes that you anticipate will use this product and describe their pertinent characteristics. Some requirements might pertain only to certain user classes. Identify the favored user classes. User classes represent a subset of the stakeholders described in the vision and scope document. User class descriptions are a reusable resource. If available, you can incorporate user class descriptions by simply pointing to them in a master user class catalog instead of duplicating information here.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:53.216Z",
+    "updatedAt": "2025-07-28T14:33:53.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a517150ca815231fd2f",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "5eb2c4d5-2b96-4dbf-bd82-daf71a8de390",
+    "originalText": "<a id=\"_Toc439994677\"></a><a id=\"_Toc352609389\"></a>Operating Environment",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:53.432Z",
+    "updatedAt": "2025-07-28T14:33:53.432Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a517150ca815231fd32",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "aad4d9c8-2fcf-4f1d-b95a-944fba70daab",
+    "originalText": "&lt;Describe the environment in which the software will operate, including the hardware platform; operating systems and versions; geographical locations of users, servers, and databases; and organizations that host the related databases, servers, and websites. List any other software components or applications with which the system must peacefully coexist. If extensive technical infrastructure work needs to be performed in conjunction with developing the new system, consider creating a separate infrastructure requirements specification to detail that work.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:53.743Z",
+    "updatedAt": "2025-07-28T14:33:53.743Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a527150ca815231fd35",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "b913171b-2982-4474-80cf-adecc6ba41ed",
+    "originalText": "<a id=\"_Toc439994678\"></a><a id=\"_Toc352609390\"></a>Design and Implementation Constraints",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:54.055Z",
+    "updatedAt": "2025-07-28T14:33:54.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a527150ca815231fd38",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "5ea07559-966a-4c93-8ec8-7b55a153f3fe",
+    "originalText": "&lt;Describe any factors that will limit the options available to the developers. These might include: corporate or regulatory policies; hardware limitations (timing or memory requirements); interfaces to other applications; specific technologies, tools, and databases to be used; programming language requirements or restrictions.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:54.489Z",
+    "updatedAt": "2025-07-28T14:33:54.489Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a537150ca815231fd3b",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "77c52bbb-7f9e-4483-8eca-e706059f9f9a",
+    "originalText": "<a id=\"_Toc439994680\"></a><a id=\"_Toc352609391\"></a>Assumptions and Dependencies",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:55.096Z",
+    "updatedAt": "2025-07-28T14:33:55.096Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a537150ca815231fd3e",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "82b1315f-2ceb-40a0-9a10-68e438c1335a",
+    "originalText": "&lt;List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third-party or commercial components that you plan to use, reuse expectations, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors outside its control.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:55.350Z",
+    "updatedAt": "2025-07-28T14:33:55.350Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a537150ca815231fd41",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "88076159-4eed-41a3-bb4b-fa247becf21d",
+    "originalText": "<a id=\"_Toc439994687\"></a><a id=\"_Toc352609392\"></a><a id=\"_Toc439994682\"></a>System Features",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:55.587Z",
+    "updatedAt": "2025-07-28T14:33:55.587Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a537150ca815231fd44",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "5b06cd0e-a3ee-45cc-8de8-31a3dc34decd",
+    "originalText": "Use case diagam here",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:55.869Z",
+    "updatedAt": "2025-07-28T14:33:55.869Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a547150ca815231fd47",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "bb75b6e9-dd66-4669-a615-ec54ae18da98",
+    "originalText": "System feature tree here",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:56.137Z",
+    "updatedAt": "2025-07-28T14:33:56.137Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a547150ca815231fd4a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "de686a5d-d703-491f-9b61-5bb2438d6c31",
+    "originalText": "Context diagram here",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:56.509Z",
+    "updatedAt": "2025-07-28T14:33:56.509Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a547150ca815231fd4d",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "1855777f-2391-44c6-a41d-4853e0d7602b",
+    "originalText": "……..",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:56.751Z",
+    "updatedAt": "2025-07-28T14:33:56.751Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a547150ca815231fd50",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "fb8ee9f3-c87f-4c29-9f0e-ede6f6e55283",
+    "originalText": "<a id=\"_Toc439994688\"></a><a id=\"_Toc352609393\"></a>System Feature Manage Account",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:56.968Z",
+    "updatedAt": "2025-07-28T14:33:56.968Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a557150ca815231fd53",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "c72e28aa-2e1b-4343-ba3e-9945999cd2e7",
+    "originalText": "Description",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:57.359Z",
+    "updatedAt": "2025-07-28T14:33:57.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a557150ca815231fd56",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "403afa03-169e-449d-b554-7acfecc891a2",
+    "originalText": "Writing short description about manage account here",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:57.671Z",
+    "updatedAt": "2025-07-28T14:33:57.671Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a557150ca815231fd59",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d655028b-1c03-4f9f-9617-cf3f250211aa",
+    "originalText": "Stimulus/Response Sequences",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:57.938Z",
+    "updatedAt": "2025-07-28T14:33:57.938Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a567150ca815231fd5c",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "0d401871-b6ba-4a3f-b172-87eeb12f6e33",
+    "originalText": "List all event and FAP system must response with the even. Should write in table formate",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:58.183Z",
+    "updatedAt": "2025-07-28T14:33:58.183Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a567150ca815231fd5f",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ba8d4fba-fe81-4bf0-a819-7672f65d7bd8",
+    "originalText": "Functional Requirements Create new Account",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:58.409Z",
+    "updatedAt": "2025-07-28T14:33:58.409Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a567150ca815231fd62",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "cd6c7c2b-45fa-420c-ad3a-9915692b5172",
+    "originalText": "Draw the GUI of the screen create new Account function and insert here",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:58.659Z",
+    "updatedAt": "2025-07-28T14:33:58.659Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a567150ca815231fd65",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "3126708b-c9b1-4c9e-8e23-d06f1e4f541c",
+    "originalText": "Picture 1",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:58.880Z",
+    "updatedAt": "2025-07-28T14:33:58.880Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a577150ca815231fd68",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d2a8e92b-8a9e-42d6-a4e3-bdf82fa50261",
+    "originalText": "<p>UC ID and Name:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:59.090Z",
+    "updatedAt": "2025-07-28T14:34:46.184Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a577150ca815231fd6b",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "a46106e2-b22a-41c7-b7e6-7e27c2f4eae1",
+    "originalText": "UC ID and Name:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:59.312Z",
+    "updatedAt": "2025-07-28T14:34:46.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a577150ca815231fd6e",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "045d2551-f285-48cc-98ad-b914f6a309b7",
+    "originalText": "<p>Create  new Account</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:59.555Z",
+    "updatedAt": "2025-07-28T14:33:59.555Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a577150ca815231fd71",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "9ac2ce1c-ae1b-4a3e-9a5f-7bab134edf3c",
+    "originalText": "Create  new Account",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:59.768Z",
+    "updatedAt": "2025-07-28T14:33:59.768Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a577150ca815231fd74",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "fc68e99f-3189-4721-aa28-202e53d284e9",
+    "originalText": "<p>Created By:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:33:59.986Z",
+    "updatedAt": "2025-07-28T14:34:47.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a587150ca815231fd77",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "cdc2f25f-6107-4011-8b9a-0fbef31724f5",
+    "originalText": "Created By:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:00.201Z",
+    "updatedAt": "2025-07-28T14:34:47.900Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a587150ca815231fd7a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "3a32642f-dd8d-45e1-8b7b-4e8f513fd1ba",
+    "originalText": "<p>TrungNT</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:00.464Z",
+    "updatedAt": "2025-07-28T14:34:48.380Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a587150ca815231fd7d",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "7391c733-1ca1-47ba-9bf3-723230d1f11f",
+    "originalText": "TrungNT",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:00.672Z",
+    "updatedAt": "2025-07-28T14:34:48.897Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a587150ca815231fd80",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "b5cbebdb-ad58-412d-857d-fc2e50fc19b9",
+    "originalText": "<p>Date Created:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:00.947Z",
+    "updatedAt": "2025-07-28T14:34:49.650Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a597150ca815231fd83",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ba50a561-09d3-4528-9488-c03426525259",
+    "originalText": "Date Created:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:01.248Z",
+    "updatedAt": "2025-07-28T14:34:49.984Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a597150ca815231fd86",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d8da1210-3eb7-4b78-97ca-b52156709fcb",
+    "originalText": "<p>12/2/2009</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:01.461Z",
+    "updatedAt": "2025-07-28T14:34:50.373Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a597150ca815231fd89",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "879ef0fb-834f-4de6-8f15-8b1d9ce4659a",
+    "originalText": "12/2/2009",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:01.698Z",
+    "updatedAt": "2025-07-28T14:34:50.868Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a597150ca815231fd8c",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "379dd518-9057-4ea2-859b-3fa12f1a98ee",
+    "originalText": "<p>Primary Actor:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:01.912Z",
+    "updatedAt": "2025-07-28T14:34:51.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5a7150ca815231fd8f",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "3cc06203-fd65-4de5-a6f5-ede7ae59904e",
+    "originalText": "Primary Actor:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:02.122Z",
+    "updatedAt": "2025-07-28T14:34:51.770Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5a7150ca815231fd92",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "793d3766-2e80-4269-9d1f-3a55edc1bde6",
+    "originalText": "<p>Admin</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:02.333Z",
+    "updatedAt": "2025-07-28T14:34:52.299Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5a7150ca815231fd95",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "317d99bf-4c66-48c8-af77-468967b77a5f",
+    "originalText": "Admin",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:02.551Z",
+    "updatedAt": "2025-07-28T14:34:52.991Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5a7150ca815231fd98",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "203b5eef-4fb4-48ea-91a1-789217d1e5c8",
+    "originalText": "<p>Secondary Actors:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:02.764Z",
+    "updatedAt": "2025-07-28T14:34:53.674Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5b7150ca815231fd9b",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f262f20f-4ada-4987-b1f1-132b843b3583",
+    "originalText": "Secondary Actors:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:03.271Z",
+    "updatedAt": "2025-07-28T14:34:54.642Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5b7150ca815231fd9e",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "652a4c58-ee81-44c0-925e-e9953eb23cf1",
+    "originalText": "<p>Trigger:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:03.491Z",
+    "updatedAt": "2025-07-28T14:34:55.993Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5c7150ca815231fda1",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d044c629-db0f-4ae5-9e1f-b65b658ac37b",
+    "originalText": "Trigger:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:04.328Z",
+    "updatedAt": "2025-07-28T14:34:56.767Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5c7150ca815231fda4",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "fa7c26c0-f530-41dd-8795-a141ca8ce8f9",
+    "originalText": "<p>Description:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:04.546Z",
+    "updatedAt": "2025-07-28T14:34:57.529Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5c7150ca815231fda7",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "13f791e2-93b8-488a-9570-3d43699a6745",
+    "originalText": "Description:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:04.753Z",
+    "updatedAt": "2025-07-28T14:34:57.905Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5c7150ca815231fdaa",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4ecbe77c-0e1c-403b-bb77-1aaaf73f377a",
+    "originalText": "<p>Preconditions:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:04.978Z",
+    "updatedAt": "2025-07-28T14:34:58.184Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5d7150ca815231fdad",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4e029376-f4b3-4a47-b03c-995ec80ec64c",
+    "originalText": "Preconditions:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:05.230Z",
+    "updatedAt": "2025-07-28T14:34:58.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5d7150ca815231fdb0",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "13d3d2f3-0150-4807-816a-ad27a6852b21",
+    "originalText": "<p>The user must have the valide email of FPT University. Example TrungNT@fpt.edu.vn</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:05.439Z",
+    "updatedAt": "2025-07-28T14:34:05.439Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5d7150ca815231fdb3",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "194d48a0-3da7-4cce-8eda-62da4e8d959a",
+    "originalText": "The user must have the valide email of FPT University. Example TrungNT@fpt.edu.vn",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:05.648Z",
+    "updatedAt": "2025-07-28T14:34:05.648Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5d7150ca815231fdb6",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ce5f469b-b59c-435e-b9f4-69df831aa702",
+    "originalText": "<p>Postconditions:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:05.868Z",
+    "updatedAt": "2025-07-28T14:34:59.676Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5e7150ca815231fdb9",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ba5d6c18-47d8-4278-baec-cb8b5e4b7e01",
+    "originalText": "Postconditions:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:06.083Z",
+    "updatedAt": "2025-07-28T14:35:00.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5e7150ca815231fdbc",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d7bc53da-5260-402f-a655-0538cf9335b9",
+    "originalText": "<p>After finish this function, the new account must be created and store in the database of the FAP system</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:06.293Z",
+    "updatedAt": "2025-07-28T14:34:06.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5e7150ca815231fdbf",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "06f49945-21f0-49a0-8fab-f1bdfefcc9be",
+    "originalText": "After finish this function, the new account must be created and store in the database of the FAP system",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:06.619Z",
+    "updatedAt": "2025-07-28T14:34:06.619Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5e7150ca815231fdc2",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "8e84f740-9776-4bdf-abdd-c69ce68cca08",
+    "originalText": "<p>Normal Flow:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:06.829Z",
+    "updatedAt": "2025-07-28T14:35:01.501Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5f7150ca815231fdc5",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "9091127b-8f20-4452-9689-164334144f13",
+    "originalText": "Normal Flow:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:07.037Z",
+    "updatedAt": "2025-07-28T14:35:01.766Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5f7150ca815231fdc8",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "b0fea3b5-8fc5-41dc-b875-25ce16d8f852",
+    "originalText": "<ol><li>Fisrt, the admin user must access the screen create new account</li></ol>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:07.247Z",
+    "updatedAt": "2025-07-28T14:35:02.051Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5f7150ca815231fdcb",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ced3899b-dcf2-4e93-935e-3781e7f8be94",
+    "originalText": "Fisrt, the admin user must access the screen create new account",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:07.460Z",
+    "updatedAt": "2025-07-28T14:35:02.350Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a5f7150ca815231fdce",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ce5c5889-3774-4b63-aa41-0d7258724aa0",
+    "originalText": "<p>Alternative Flows:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:07.754Z",
+    "updatedAt": "2025-07-28T14:35:02.629Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a607150ca815231fdd1",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f5a6a1af-24b1-41cb-9734-93a635c61aa2",
+    "originalText": "Alternative Flows:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:08.182Z",
+    "updatedAt": "2025-07-28T14:35:03.374Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a607150ca815231fdd4",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "588b6427-dc53-40cd-ac43-d284a2767556",
+    "originalText": "<p>Exceptions:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:08.402Z",
+    "updatedAt": "2025-07-28T14:35:03.939Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a607150ca815231fdd7",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "e7b61e94-f0a2-423f-bf88-05101355a50f",
+    "originalText": "Exceptions:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:08.618Z",
+    "updatedAt": "2025-07-28T14:35:04.197Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a607150ca815231fdda",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "a7d69bc1-8935-4c27-b952-76d52f0568c8",
+    "originalText": "<p>Priority:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:08.826Z",
+    "updatedAt": "2025-07-28T14:35:04.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a617150ca815231fddd",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "b51c18fe-ba43-4a2e-9502-2f57cbd4f613",
+    "originalText": "Priority:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:09.040Z",
+    "updatedAt": "2025-07-28T14:35:05.020Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a617150ca815231fde0",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "6cc113eb-6601-49d8-8162-9418510ca393",
+    "originalText": "<p>Frequency of Use:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:09.246Z",
+    "updatedAt": "2025-07-28T14:35:05.315Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a617150ca815231fde3",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "40b0331b-2a00-410c-9287-4b4230252dd8",
+    "originalText": "Frequency of Use:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:09.460Z",
+    "updatedAt": "2025-07-28T14:35:05.959Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a617150ca815231fde6",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "c187891b-3b44-4f51-aff7-6c7df8f3633d",
+    "originalText": "<p>Business Rules:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:09.668Z",
+    "updatedAt": "2025-07-28T14:35:06.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a617150ca815231fde9",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "1a8af8ac-934d-4202-82ec-e143bfa956de",
+    "originalText": "Business Rules:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:09.882Z",
+    "updatedAt": "2025-07-28T14:35:07.528Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a627150ca815231fdec",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "653d749d-39a6-486c-90e4-4f016a045ab9",
+    "originalText": "<p>Other Information:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:10.090Z",
+    "updatedAt": "2025-07-28T14:35:07.832Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a627150ca815231fdef",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "fc4d45af-84ad-404e-b8d2-c588182ba252",
+    "originalText": "Other Information:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:10.298Z",
+    "updatedAt": "2025-07-28T14:35:08.846Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a627150ca815231fdf2",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "e51425fb-5881-4fcb-a664-b27dcef3d3a2",
+    "originalText": "<p>Assumptions:</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:10.504Z",
+    "updatedAt": "2025-07-28T14:35:09.437Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a627150ca815231fdf5",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "fdc1dea4-3f11-4bd5-929a-7233c9b16a47",
+    "originalText": "Assumptions:",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:10.721Z",
+    "updatedAt": "2025-07-28T14:35:10.188Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a627150ca815231fdf8",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "758ae3fd-19ab-469a-9c7f-85377ac36fd5",
+    "originalText": "Function update account",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:10.928Z",
+    "updatedAt": "2025-07-28T14:34:10.928Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a637150ca815231fdfb",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "bb818fc4-5c5c-4264-934c-e5b8d7743833",
+    "originalText": "Draw the GUI of the screen update Account function and insert here",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:11.150Z",
+    "updatedAt": "2025-07-28T14:34:11.150Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a647150ca815231fe02",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "b966b051-b5d6-475b-9ff2-a720d74d6abc",
+    "originalText": "<p>Update Account</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:12.084Z",
+    "updatedAt": "2025-07-28T14:34:12.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a647150ca815231fe05",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "dc30cf79-a74d-4d08-9f1a-33fcbb511ed3",
+    "originalText": "Update Account",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:12.293Z",
+    "updatedAt": "2025-07-28T14:34:12.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a6a7150ca815231fe30",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "3e4ee4ac-249e-4263-960c-8872c278e9d4",
+    "originalText": "<p>The user must already have the valid account in the FAP System. </p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:18.636Z",
+    "updatedAt": "2025-07-28T14:34:59.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a6b7150ca815231fe33",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "17ecda6d-f18f-4bf7-bfdf-c298972d8335",
+    "originalText": "The user must already have the valid account in the FAP System.",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:19.044Z",
+    "updatedAt": "2025-07-28T14:34:59.442Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a6b7150ca815231fe3a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "9b7919c8-c6bd-4480-9be7-150a3d259b2a",
+    "originalText": "<p>After finish this function, the account must be updated and store in the database of the FAP system</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:19.984Z",
+    "updatedAt": "2025-07-28T14:35:00.563Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a6c7150ca815231fe3d",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "dd87fe2f-4fa7-48d3-9e31-efb84a110502",
+    "originalText": "After finish this function, the account must be updated and store in the database of the FAP system",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:20.227Z",
+    "updatedAt": "2025-07-28T14:35:00.922Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a717150ca815231fe64",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "abecef61-6549-4093-9fb4-582e9550165a",
+    "originalText": "<a id=\"_Toc439994689\"></a><a id=\"_Toc352609394\"></a>System Feature Manage grade of student",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:25.267Z",
+    "updatedAt": "2025-07-28T14:34:25.267Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a717150ca815231fe67",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4801ac83-83b6-446e-ae9b-fa7f23ede62d",
+    "originalText": "Function import grade",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:25.489Z",
+    "updatedAt": "2025-07-28T14:34:25.489Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a717150ca815231fe6a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "c48b1588-153c-4eac-9937-e93293f0044b",
+    "originalText": "Draw the GUI of the screen import grade function and insert here",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:25.705Z",
+    "updatedAt": "2025-07-28T14:34:45.893Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a727150ca815231fe71",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "c7a0af9f-591f-44b2-915f-afde4dabbc17",
+    "originalText": "<p>Import grade</p>",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:26.439Z",
+    "updatedAt": "2025-07-28T14:34:47.020Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a727150ca815231fe74",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "6c1964db-f435-4227-b9b1-eac5ec1cfc6b",
+    "originalText": "Import grade",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:26.683Z",
+    "updatedAt": "2025-07-28T14:34:47.313Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a857150ca815231fecf",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "6c249dbf-7d55-46e2-a412-c0c2d918f2a8",
+    "originalText": "function update grade",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:34:45.639Z",
+    "updatedAt": "2025-07-28T14:34:45.639Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a9e7150ca815231ff34",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "882a377c-84ff-42f5-ba44-c8fa6b1f839e",
+    "originalText": "function delete grade",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:10.539Z",
+    "updatedAt": "2025-07-28T14:35:10.539Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a9e7150ca815231ff37",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "6132c5d7-d238-449c-90d3-7fd73b6a628a",
+    "originalText": "<a id=\"_Toc352609395\"></a>Data Requirements",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:10.813Z",
+    "updatedAt": "2025-07-28T14:35:10.813Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a9f7150ca815231ff3a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "08da7f23-0756-4873-adb8-5045b770dad3",
+    "originalText": "&lt;This section describes various aspects of the data that the system will consume as inputs, process in some fashion, or create as outputs.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:11.299Z",
+    "updatedAt": "2025-07-28T14:35:11.299Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878a9f7150ca815231ff3d",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "89fb103b-5b8a-4cfe-a016-f4ca2c96af90",
+    "originalText": "<a id=\"_Toc352609396\"></a>Logical Data Model",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:11.907Z",
+    "updatedAt": "2025-07-28T14:35:11.907Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa07150ca815231ff40",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "a49290d8-b402-41c6-99f9-7f2fd0a32ac1",
+    "originalText": "&lt;A data model is a visual representation of the data objects and collections the system will process and the relationships between them. Include a data model for the business operations being addressed by the system, or a logical representation for the data that the system itself will manipulate. Data models are most commonly created as an entity-relationship diagram.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:12.172Z",
+    "updatedAt": "2025-07-28T14:35:12.172Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa07150ca815231ff43",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "0f9027d5-bcd6-450f-b74a-09463283ca6f",
+    "originalText": "<a id=\"_Toc352609397\"></a>Data Dictionary",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:12.532Z",
+    "updatedAt": "2025-07-28T14:35:12.532Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa17150ca815231ff46",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "bb43836a-2d42-4c07-b3e8-5bf6725b1afc",
+    "originalText": "&lt;The data dictionary defines the composition of data structures and the meaning, data type, length, format, and allowed values for the data elements that make up those structures. In many cases, you're better off storing the data dictionary as a separate artifact, rather than embedding it in the middle of an SRS. That also increases its reusability potential in other projects.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:13.022Z",
+    "updatedAt": "2025-07-28T14:35:13.022Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa17150ca815231ff49",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "383caaad-e326-4164-9c27-0d409eb26044",
+    "originalText": "<a id=\"_Toc352609398\"></a>Reports",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:13.607Z",
+    "updatedAt": "2025-07-28T14:35:13.607Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa27150ca815231ff4c",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ca02058d-f523-40ca-ae35-5e08e68f0003",
+    "originalText": "&lt;If your application will generate any reports, identify them here and describe their characteristics. If a report must conform to a specific predefined layout you can specify that here as a constraint, perhaps with an example. Otherwise, focus on the logical descriptions of the report content, sort sequence, totaling levels, and so forth, deferring the detailed report layout to the design stage.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:14.196Z",
+    "updatedAt": "2025-07-28T14:35:14.196Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa27150ca815231ff4f",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "0f5483db-c10e-4aee-9e1b-cf34844450d5",
+    "originalText": "<a id=\"_Toc352609399\"></a>Data Acquisition, Integrity, Retention, and Disposal",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:14.496Z",
+    "updatedAt": "2025-07-28T14:35:14.496Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa37150ca815231ff52",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "2ec30494-3f6c-4c5f-b302-050c358a8b92",
+    "originalText": "&lt;If relevant, describe how data is acquired and maintained. State any requirements regarding the need to protect the integrity of the system's data. Identify any specific techniques that are necessary, such as backups, checkpointing, mirroring, or data accuracy verification. State policies the system must enforce for either retaining or disposing of data, including temporary data, metadata, residual data (such as deleted records), cached data, local copies, archives, and interim backups.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:15.049Z",
+    "updatedAt": "2025-07-28T14:35:15.049Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa37150ca815231ff55",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f4a7a93d-cad0-46c6-900f-29429626351e",
+    "originalText": "<a id=\"_Toc352609400\"></a>External Interface Requirements",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:15.631Z",
+    "updatedAt": "2025-07-28T14:35:15.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa47150ca815231ff58",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "31a1edac-3c04-472a-9176-ff6dac7aa2c1",
+    "originalText": "&lt;This section provides information to ensure that the system will communicate properly with users and with external hardware or software elements.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:16.177Z",
+    "updatedAt": "2025-07-28T14:35:16.177Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa47150ca815231ff5b",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "dca90e1e-2b8b-4d95-a05f-905e7de31b23",
+    "originalText": "<a id=\"_Toc352609401\"></a>User Interfaces",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:16.633Z",
+    "updatedAt": "2025-07-28T14:35:16.633Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa57150ca815231ff5e",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "47ec9aa6-bcfc-40df-beaf-2fd3667d77e6",
+    "originalText": "&lt;Describe the logical characteristics of each interface between the software product and the users. This may include sample screen images, any GUI standards or product family style guides that are to be followed, screen layout constraints, standard buttons and functions (e.g., help) that will appear on every screen, keyboard shortcuts, error message display standards, and so on. Define the software components for which a user interface is needed. Details of the user interface design should be documented in a separate user interface specification.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:17.068Z",
+    "updatedAt": "2025-07-28T14:35:17.068Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa57150ca815231ff61",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "7151c163-3cc5-46ef-9dd0-e1ac8d5a2f2f",
+    "originalText": "<a id=\"_Toc439994685\"></a><a id=\"_Toc352609402\"></a>Software Interfaces",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:17.369Z",
+    "updatedAt": "2025-07-28T14:35:17.369Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa57150ca815231ff64",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "60f2850c-e848-48c4-af12-a5886e58fcff",
+    "originalText": "&lt;Describe the connections between this product and other software components (identified by name and version), including other applications, databases, operating systems, tools, libraries, websites, and integrated commercial components. State the purpose, formats, and contents of the messages, data, and control values exchanged between the software components. Specify the mappings of input and output data between the systems and any translations that need to be made for the data to get from one system to the other. Describe the services needed by or from external software components and the nature of the intercomponent communications. Identify data that will be exchanged between or shared across software components. Specify nonfunctional requirements affecting the interface, such as service levels for responses times and frequencies, or security controls and restrictions.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:17.679Z",
+    "updatedAt": "2025-07-28T14:35:17.679Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa67150ca815231ff67",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "8293bc1b-1969-4c9f-a6a5-a859a16282ae",
+    "originalText": "<a id=\"_Toc439994684\"></a><a id=\"_Toc352609403\"></a><a id=\"_Toc439994686\"></a>Hardware Interfaces",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:18.098Z",
+    "updatedAt": "2025-07-28T14:35:18.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa67150ca815231ff6a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "0696e0bf-d57f-4621-8816-9efd2bbcdd7e",
+    "originalText": "&lt;Describe the characteristics of each interface between the software and hardware (if any) components of the system. This description might include the supported device types, the data and control interactions between the software and the hardware, and the communication protocols to be used. List the inputs and outputs, their formats, their valid values or ranges, and any timing issues developers need to be aware of. If this information is extensive, consider creating a separate interface specification document.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:18.362Z",
+    "updatedAt": "2025-07-28T14:35:18.362Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa67150ca815231ff6d",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "9feba37c-acde-4986-b0fe-fcb285641a06",
+    "originalText": "<a id=\"_Toc352609404\"></a>Communications Interfaces",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:18.898Z",
+    "updatedAt": "2025-07-28T14:35:18.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa77150ca815231ff70",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "22293df2-a150-48b5-9dfd-202c83e5917a",
+    "originalText": "&lt;State the requirements for any communication functions the product will use, including e-mail, Web browser, network protocols, and electronic forms. Define any pertinent message formatting. Specify communication security or encryption issues, data transfer rates, handshaking, and synchronization mechanisms. State any constraints around these interfaces, such as whether e-mail attachments are acceptable or not.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:19.346Z",
+    "updatedAt": "2025-07-28T14:35:19.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa77150ca815231ff73",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "9d9ff0aa-9d0a-4cc2-9f22-5261f67d8f09",
+    "originalText": "<a id=\"_Toc352609405\"></a><a id=\"_Toc439994690\"></a>Quality Attributes",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:19.738Z",
+    "updatedAt": "2025-07-28T14:35:19.738Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa87150ca815231ff76",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4d7ca97e-79ea-4428-ace9-ca4de3b8fbff",
+    "originalText": "<a id=\"_Toc352609406\"></a>Usability",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:20.026Z",
+    "updatedAt": "2025-07-28T14:35:20.026Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa87150ca815231ff79",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "737b7243-0045-4b48-8f26-85ce13e63565",
+    "originalText": "&lt;Specify any requirements regarding characteristics that will make the software appear to be “user-friendly.” Usability encompasses ease of use, ease of learning; memorability; error avoidance, handling, and recovery; efficiency of interactions; accessibility; and ergonomics. Sometimes these can conflict with each other, as with ease of use over ease of learning. Indicate any user interface design standards or guidelines to which the application must conform.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:20.356Z",
+    "updatedAt": "2025-07-28T14:35:20.356Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa87150ca815231ff7c",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "d289e789-7a24-495b-a373-b481e3bad124",
+    "originalText": "<a id=\"_Toc352609407\"></a>Performance",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:20.653Z",
+    "updatedAt": "2025-07-28T14:35:20.653Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa97150ca815231ff7f",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "5256fe50-8d30-4c95-a8fb-6c156e28ac7a",
+    "originalText": "&lt;State specific performance requirements for various system operations. If different functional requirements or features have different performance requirements, it's appropriate to specify those performance goals right with the corresponding functional requirements, rather than collecting them in this section.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:21.338Z",
+    "updatedAt": "2025-07-28T14:35:21.338Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aa97150ca815231ff82",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "024fdbcf-574a-4d3a-9f60-04909435507b",
+    "originalText": "<a id=\"_Toc439994692\"></a><a id=\"_Toc352609408\"></a>Security",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:21.778Z",
+    "updatedAt": "2025-07-28T14:35:21.778Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aaa7150ca815231ff85",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "5be7da4f-6b09-479b-b8e9-70a71d3535e3",
+    "originalText": "&lt;Specify any requirements regarding security or privacy issues that restrict access to or use of the product. These could refer to physical, data, or software security. Security requirements often originate in business rules, so identify any security or privacy policies or regulations to which the product must conform. If these are documented in a business rules repository, just refer to them.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:22.023Z",
+    "updatedAt": "2025-07-28T14:35:22.023Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aaa7150ca815231ff88",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "43d354d0-a88e-48bc-933a-d316176b77cc",
+    "originalText": "<a id=\"_Toc439994691\"></a><a id=\"_Toc352609409\"></a><a id=\"_Toc439994693\"></a>Safety",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:22.273Z",
+    "updatedAt": "2025-07-28T14:35:22.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aab7150ca815231ff8b",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "ae05dba3-5dca-4691-aae4-f10f44bb4d9e",
+    "originalText": "&lt;Specify requirements that are concerned with possible loss, damage, or harm that could result from use of the product. Define any safeguards or actions that must be taken, as well as potentially dangerous actions that must be prevented. Identify any safety certifications, policies, or regulations to which the product must conform.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:23.059Z",
+    "updatedAt": "2025-07-28T14:35:23.059Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aab7150ca815231ff8e",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "cb181afb-125e-4c53-8015-d0ef1b954eff",
+    "originalText": "<a id=\"_Toc352609410\"></a>[Others as relevant]",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:23.290Z",
+    "updatedAt": "2025-07-28T14:35:23.290Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aab7150ca815231ff91",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "fde2451e-e2d9-4574-a48a-dcf15127b0f9",
+    "originalText": "&lt;Create a separate section in the SRS for each additional product quality attribute to describe characteristics that will be important to either customers or developers. Possibilities include availability, efficiency, installability, integrity, interoperability, modifiability, portability, reliability, reusability, robustness, scalability, and verifiability. Write these to be specific, quantitative, and verifiable. Clarify the relative priorities for various attributes, such as security over performance.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:23.557Z",
+    "updatedAt": "2025-07-28T14:35:23.557Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aab7150ca815231ff94",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "9bd57c50-2b68-4185-875d-9f8a41276501",
+    "originalText": "<a id=\"_Toc352609411\"></a><a id=\"_Toc439994695\"></a>Internationalization and Localization Requirements",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:23.808Z",
+    "updatedAt": "2025-07-28T14:35:23.808Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aac7150ca815231ff97",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "daafb59b-48d1-4d4f-b6d9-4134d0bd0b6d",
+    "originalText": "&lt;Internationalization and localization requirements ensure that the product will be suitable for use in nations, cultures, and geographic locations other than those in which it was created. Such requirements might address differences in: currency; formatting of dates, numbers, addresses, and telephone numbers; language, including national spelling conventions within the same language (such as American versus British English), symbols used, and character sets; given name and family name order; time zones; international regulations and laws; cultural and political issues; paper sizes used; weights and measures; electrical voltages and plug shapes; and many others.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:24.162Z",
+    "updatedAt": "2025-07-28T14:35:24.162Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aac7150ca815231ff9a",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "f76ac7c6-7c09-4a92-a303-02b71825106f",
+    "originalText": "<a id=\"_Toc352609412\"></a>Other Requirements",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:24.496Z",
+    "updatedAt": "2025-07-28T14:35:24.496Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aac7150ca815231ff9d",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "a3ed16fd-6a8f-4eb0-b42e-64ac4b01823c",
+    "originalText": "&lt;Examples are: legal, regulatory or financial compliance, and standards requirements; requirements for product installation, configuration, startup, and shutdown; and logging, monitoring and audit trail requirements. Instead of just combining these all under \"Other,\" add any new sections to the template that are pertinent to your project. Omit this section if all your requirements are accommodated in other sections. &gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:24.809Z",
+    "updatedAt": "2025-07-28T14:35:24.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aad7150ca815231ffa0",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "5b50eb8b-9edb-4308-b3e9-f3910c91d612",
+    "originalText": "<a id=\"_Toc439994696\"></a><a id=\"_Toc352609413\"></a>Appendix A: Glossary",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:25.114Z",
+    "updatedAt": "2025-07-28T14:35:25.114Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aad7150ca815231ffa3",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "4542df45-2ab6-43f8-9253-f3982b14b827",
+    "originalText": "&lt;Define any specialized terms that a reader needs to know to understand the SRS, including acronyms and abbreviations. Spell out each acronym and provide its definition. Consider building a reusable enterprise-level glossary that spans multiple projects and incorporating by reference any terms that pertain to this project.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:25.366Z",
+    "updatedAt": "2025-07-28T14:35:25.366Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aad7150ca815231ffa6",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "17165c45-2c7c-435f-9a79-637a9957a1a4",
+    "originalText": "<a id=\"_Toc439994697\"></a><a id=\"_Toc352609414\"></a>Appendix B: Analysis Models",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:25.679Z",
+    "updatedAt": "2025-07-28T14:35:25.679Z",
+    "__v": 0
+  },
+  {
+    "_id": "68878aad7150ca815231ffa9",
+    "projectId": "5",
+    "branchId": "5",
+    "fileId": "85",
+    "manifestEntryId": "0ad8aede-82c5-44e0-af71-a0b289e40055",
+    "originalText": "&lt;This optional section includes or points to pertinent analysis models such as data flow diagrams, feature trees, state-transition diagrams, or entity-relationship diagrams. You might prefer to insert certain models into the relevant sections of the specification instead of collecting them at the end.&gt;",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "createdAt": "2025-07-28T14:35:25.896Z",
+    "updatedAt": "2025-07-28T14:35:25.896Z",
+    "__v": 0
+  }
+]
